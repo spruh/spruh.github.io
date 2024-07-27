@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 
-venue: "Department of Biosciences and Bioengineering, IIT Bombay"
+venue: "Department of Chemistry, IIT Bombay"
 date: 2014-01-01
 location: "City, Country"
 ---
